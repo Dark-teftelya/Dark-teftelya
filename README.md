@@ -6,14 +6,14 @@
 
 <br/>
 
-<!-- GitHub Streak -->
-<a href="https://git.io/streak-stats">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Dark-teftelya&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" />
+<!-- GitHub Streak (актуальный URL из github-readme-stats) -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dark-teftelya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 
-<!-- Activity Graph -->
+<!-- Activity Graph (мигрировано на Vercel) -->
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img height="300" src="https://activity-graph.herokuapp.com/graph?username=Dark-teftelya&theme=radical&hide_border=true&background=0D1117" />
+  <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=Dark-teftelya&theme=radical&hide_border=true&bg_color=0D1117&color=A6E3FF&line=A6E3FF&point=F9E2AF&area=A6E3FF15&hide=pr,issue,review" />
 </a>
 
 <br/>
@@ -29,46 +29,46 @@
 
 <br/>
 
-<!-- Stats + Top Langs в одной строке -->
+<!-- Stats + Top Langs (актуальные URL) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dark-teftelya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-teftelya&layout=compact&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-teftelya&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </a>
 
 <br/>
 
-<!-- Trophy -->
+<!-- Trophy (актуальный) -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=Dark-teftelya&theme=onedark&no-frame=true&margin-w=15&column=8" />
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=Dark-teftelya&theme=radical&no-frame=true&margin-w=15&column=8" />
 </a>
 
 <br/>
 
-## Главный проект
+## Главный проект: POZMUZ_2.0
 
 <a href="https://github.com/Dark-teftelya/POZMUZ_2.0">
-  <img align="center" src="https://github-readme-stats.vercel/api/pin/?username=Dark-teftelya&repo=POZMUZ_2.0&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-teftelya&repo=POZMUZ_2.0&theme=radical&hide_border=true" />
 </a>
 
 <br/>
 
-<!-- Summary Cards -->
+<!-- Summary Cards (исправленный URL, theme=radical) -->
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="https://github-profile-summary-cards.vercel.app/api?username=Dark-teftelya&theme=radical" />
 </a>
 
 <br/>
 
-<!-- Цитата -->
+<!-- Цитата (актуальный) -->
 <a href="https://github.com/denvercoder1/github-readme-quotes">
   <img src="https://quotes-github-readme.vercel.app/api?theme=radical" />
 </a>
 
 <br/>
 
-<!-- Посещения -->
+<!-- Посещения (актуальный) -->
 <a href="https://github.com/Dark-teftelya">
   <img src="https://komarev.com/ghpvc/?username=Dark-teftelya&color=ff6b6b&style=for-the-badge&label=Посещений+профиля" />
 </a>
@@ -83,7 +83,7 @@
 <a href="https://github.com/Dark-teftelya">
   <img src="https://img.shields.io/badge/GitHub-Dark--teftelya-black?style=flat&logo=github" />
 </a>
-<a href="mailto:твой@mail.ru">
+<a href="mailto:т48hyg63@gmail.com">
   <img src="https://img.shields.io/badge/Email-Написать-red?style=flat&logo=gmail" />
 </a>
 
