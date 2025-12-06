@@ -6,14 +6,14 @@
 
 <br/>
 
-<!-- GitHub Streak (актуальный URL из github-readme-stats) -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dark-teftelya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+<!-- GitHub Streak (стабильный, без rate limits) -->
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Dark-teftelya&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&currStreakNum=FF6B6B&sideNums=FF6B6B&currStreakPlural=completed&cache_seconds=3600" />
 </a>
 
-<!-- Activity Graph (мигрировано на Vercel) -->
+<!-- Activity Graph (Vercel, с cache fix) -->
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=Dark-teftelya&theme=radical&hide_border=true&bg_color=0D1117&color=A6E3FF&line=A6E3FF&point=F9E2AF&area=A6E3FF15&hide=pr,issue,review" />
+  <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=Dark-teftelya&theme=radical&hide_border=true&bg_color=0D1117&color=A6E3FF&line=A6E3FF&point=F9E2AF&area=A6E3FF15&hide=pr,issue,review&cache_seconds=3600" />
 </a>
 
 <br/>
@@ -29,46 +29,40 @@
 
 <br/>
 
-<!-- Stats + Top Langs (актуальные URL) -->
+<!-- Main Stats (с cache fix) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dark-teftelya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dark-teftelya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600" />
 </a>
+
+<!-- Top Langs (с cache fix) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-teftelya&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-teftelya&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=3600" />
 </a>
 
 <br/>
 
-<!-- Trophy (актуальный) -->
+<!-- Trophy (стабильный) -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=Dark-teftelya&theme=radical&no-frame=true&margin-w=15&column=8" />
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=Dark-teftelya&theme=radical&no-frame=true&margin-w=15&column=8&cache_seconds=3600" />
 </a>
 
 <br/>
 
-## Главный проект: POZMUZ_2.0
-
-<a href="https://github.com/Dark-teftelya/POZMUZ_2.0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-teftelya&repo=POZMUZ_2.0&theme=radical&hide_border=true" />
-</a>
-
-<br/>
-
-<!-- Summary Cards (исправленный URL, theme=radical) -->
+<!-- Summary Cards (с cache fix) -->
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api?username=Dark-teftelya&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api?username=Dark-teftelya&theme=radical&cache_seconds=3600" />
 </a>
 
 <br/>
 
-<!-- Цитата (актуальный) -->
+<!-- Цитата (стабильная) -->
 <a href="https://github.com/denvercoder1/github-readme-quotes">
   <img src="https://quotes-github-readme.vercel.app/api?theme=radical" />
 </a>
 
 <br/>
 
-<!-- Посещения (актуальный) -->
+<!-- Посещения (стабильный) -->
 <a href="https://github.com/Dark-teftelya">
   <img src="https://komarev.com/ghpvc/?username=Dark-teftelya&color=ff6b6b&style=for-the-badge&label=Посещений+профиля" />
 </a>
@@ -83,7 +77,7 @@
 <a href="https://github.com/Dark-teftelya">
   <img src="https://img.shields.io/badge/GitHub-Dark--teftelya-black?style=flat&logo=github" />
 </a>
-<a href="mailto:т48hyg63@gmail.com">
+<a href="mailto:твой@mail.ru">
   <img src="https://img.shields.io/badge/Email-Написать-red?style=flat&logo=gmail" />
 </a>
 
