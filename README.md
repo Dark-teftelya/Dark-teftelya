@@ -1,74 +1,90 @@
-Dark-teftelya
+<div align="center">
 
- 
-![cd-disk](https://github.com/user-attachments/assets/aa8f8b15-7385-45d9-ae59-765893d02318)
+# Dark-teftelya
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Django+%7C+React+%7C+Ruby+on+Rails+%7C+Go+%7C+Vue;Polyglot+Programmer;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 
+<br/>
 
-GitHub Streak
-GitHub Activity Graph
+<!-- GitHub Streak -->
+<a href="https://git.io/streak-stats">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Dark-teftelya&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" />
+</a>
 
+<!-- Activity Graph -->
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img height="300" src="https://activity-graph.herokuapp.com/graph?username=Dark-teftelya&theme=radical&hide_border=true&background=0D1117" />
+</a>
 
+<br/>
 
-👨‍💻 Обо мне
-Привет! Я full-stack разработчик с страстью к полиglot-программированию. Пишу на Django, React/Next.js, Ruby on Rails, Go и Vue 3. Люблю экспериментировать с новыми стеками, автоматизировать рутину и создавать масштабируемые приложения. Мои проекты — это микс pet-проектов, прототипов и реальных решений для резюме. Open-source forever! 🚀
+## Привет, я full-stack разработчик
 
-🌍 Из России, но код универсален
-📫 Связаться: dark-teftelya@example.com
-💼 Ищу: интересные коллаборации и junior/mid позиции
+Пишу на **Django • React/Next.js • Ruby on Rails • Go • Vue 3**.  
+Люблю чистый код, быстрые MVP и масштабируемые системы.  
+Этот профиль — мой живой портфолио + полигон для экспериментов.
 
+- Из России, открыт к ремоуту и коллабам
+- Ищу junior/middle позиции и интересные open-source проекты
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dark-teftelya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<br/>
 
+<!-- Stats + Top Langs в одной строке -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dark-teftelya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-teftelya&layout=compact&theme=radical&hide_border=true" />
+</a>
 
+<br/>
 
-🛠️ Технологии и навыки
+<!-- Trophy -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=Dark-teftelya&theme=onedark&no-frame=true&margin-w=15&column=8" />
+</a>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-teftelya&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
-Backend
+## Главный проект
 
-Python/Django + DRF: REST API, аутентификация, Celery для задач
-Ruby on Rails: Быстрая разработка MVP
-Go: Микросервисы, высокая производительность
+<a href="https://github.com/Dark-teftelya/POZMUZ_2.0">
+  <img align="center" src="https://github-readme-stats.vercel/api/pin/?username=Dark-teftelya&repo=POZMUZ_2.0&theme=radical&hide_border=true" />
+</a>
 
-Frontend
+<br/>
 
-React/Next.js: SPA, SSR, hooks и state management
-Vue 3 + Vite: Легкие UI, композиционные API
+<!-- Summary Cards -->
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api?username=Dark-teftelya&theme=radical" />
+</a>
 
-Tools & DevOps
+<br/>
 
-Docker, Docker Compose
-PostgreSQL, Redis, RabbitMQ
-GitHub Actions для CI/CD
-VS Code, Git
+<!-- Цитата -->
+<a href="https://github.com/denvercoder1/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?theme=radical" />
+</a>
 
+<br/>
 
-  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Dark-teftelya&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+<!-- Посещения -->
+<a href="https://github.com/Dark-teftelya">
+  <img src="https://komarev.com/ghpvc/?username=Dark-teftelya&color=ff6b6b&style=for-the-badge&label=Посещений+профиля" />
+</a>
 
+<br/><br/>
 
-  📊 Статистика
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Спасибо+что+заглянул!;Звёздочка+—+лучшее+спасибо+%E2%AD%90;Пиши+—+покодим+вместе!+%F0%9F%9A%80" />
 
-  Summary Card
+<br/>
 
+<!-- Соцсети -->
+<a href="https://github.com/Dark-teftelya">
+  <img src="https://img.shields.io/badge/GitHub-Dark--teftelya-black?style=flat&logo=github" />
+</a>
+<a href="mailto:твой@mail.ru">
+  <img src="https://img.shields.io/badge/Email-Написать-red?style=flat&logo=gmail" />
+</a>
 
-
-💬 Цитата дня
-
-  ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-📈 Посетители профиля
-
-  Profile Views
-
-
-
-  Typing SVG
-
-
-  GitHub
-  LinkedIn
-  Email
+</div>
